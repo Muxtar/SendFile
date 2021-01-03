@@ -1,0 +1,50 @@
+
+goby1 = "\x1b[1;36;36m"
+hite1 = "\x1b[1;36;37m"
+urtple1 = "\x1b[1;36;35m"
+blue1 = "\x1b[1;36;34m"
+yellow1 = "\x1b[1;36;33m"
+green1 = "\x1b[1;36;32m"
+red1 = "\x1b[1;36;31m"
+white2 = "\x1b[1;36;30m"
+
+goby2 = "\x1b[2;36;36m"
+white2 = "\x1b[2;36;37m"
+purtple2 = "\x1b[2;36;35m"
+blue2 = "\x1b[2;36;34m"
+yellow2 = "\x1b[2;36;33m" 
+green2 = "\x1b[2;36;32m"
+red2 = "\x1b[2;36;31m"
+white2 = "\x1b[2;36;30m"
+
+goby3 = "\x1b[3;36;36m"
+white3 = "\x1b[3;36;37m"
+purtple3 = "\x1b[3;36;35m"
+blue3 = "\x1b[3;36;34m"
+yellow3 = "\x1b[3;36;33m" 
+green3 = "\x1b[3;36;32m"
+red3 = "\x1b[3;36;31m"
+white3 = "\x1b[3;36;30m"
+
+goby4 = "\x1b[4;36;36m"
+white4 = "\x1b[4;36;37m"
+purtple4 = "\x1b[4;36;35m"
+blue4 = "\x1b[4;36;34m"
+yellow4 = "\x1b[4;36;33m"
+green4 = "\x1b[4;36;32m"
+red4= "\x1b[4;36;31m"
+white4 = "\x1b[4;36;30m"
+
+goby5 = "\x1b[5;36;36m"
+white5 = "\x1b[5;36;37m"
+purtple5 = "\x1b[5;36;35m"
+blue5 = "\x1b[5;36;34m"
+yellow5 = "\x1b[5;36;33m"
+green5 = "\x1b[5;36;32m"
+red5 = "\x1b[5;36;31m"
+white5 = "\x1b[5;36;30m"
+
+
+
+
+end = "\x1b[0m"
